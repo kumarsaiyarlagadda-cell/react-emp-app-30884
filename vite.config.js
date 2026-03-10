@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "react-emp-app-0884"
+  base: "/react-emp-app-30884/"
 })
